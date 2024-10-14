@@ -3,6 +3,7 @@ name: run main.py
 on:
   schedule:
     - cron: '0 8 * * *' # At 08:00 AM everyday
+  workflow_dispatch:
 
 jobs:
   build:
@@ -23,8 +24,6 @@ jobs:
 #          pip install -r requirements.txt
           
       - name: execute py script # run main.py
-        env:
-#          SOME_SECRET: ${{ secrets.SOME_SECRET }}
         run: python EPG_grabber_v3.py
           
       - name: commit files
