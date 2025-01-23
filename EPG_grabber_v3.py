@@ -20,7 +20,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 arrayCategoria = []
 arregloCanales = []
   
-with open('json_Zapopan_Agosto_26_2024.json',encoding="latin-1") as f:
+with open('json_Zapopan_Enero_23_2025.json',encoding="latin-1") as f:
     json_data = json.load(f)
     Informacion = json_data['chs']
     for Canales in Informacion: 
