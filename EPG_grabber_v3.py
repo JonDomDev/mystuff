@@ -157,7 +157,7 @@ for Channel in arregloCanales:
 
     myfile.write('<channel id="IzzI.' + IdDeCanal + '">\n')
     myfile.write('<display-name>' + escape(NombreDeCanal) + '</display-name>\n')
-    myfile.write('<icon src="' + escape(LogoDeCanal) + '"/>
+    myfile.write('<icon src="' + escape(LogoDeCanal) + '"/>\n')
     myfile.write('</channel>\n')
 
 print(">> Generando programas...")
