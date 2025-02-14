@@ -136,7 +136,7 @@ filename = "myCablepg.xml"
 myfile = open(filename, 'w', encoding="utf-8")
 print(">> Escribiendo archivo...")
 myfile.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-myfile.write('<tv generator-info-name="izzi" generator-info-url="https://www.izzigo.tv/">\n')
+myfile.write('<tv generator-info-name="pythonmxepg" generator-info-url="https://github.com/">\n')
 
 #RespCode: 200 Canal: Boomerang - ID: 55719 - Programas: 310 Tiempo: 1.922248363494873 - 45.43744659423828
 #Generar headers de canales (nombre/EPG ID/ICONO)
@@ -157,6 +157,7 @@ for Channel in arregloCanales:
 
     myfile.write('<channel id="IzzI.' + IdDeCanal + '">\n')
     myfile.write('<display-name>' + escape(NombreDeCanal) + '</display-name>\n')
+    myfile.write('<icon src="' + escape(LogoDeCanal) + '"/>
     myfile.write('</channel>\n')
 
 print(">> Generando programas...")
@@ -326,7 +327,7 @@ for Channel in file_contents:
             ComienzoProgramaTv = datetimeObj.strftime("%Y%m%d%H%M%S%z")
         except KeyError:
             #Do nothing
-            ComienzoProgramaTv = "00000000000000" #Revisar
+            ComienzoProgramaTv = "00000000000000 +0000" #Revisar
 
         try:
             TerminacionProgramaTv = Evento['end'] #2021-03-05T11:40:00Z
@@ -347,10 +348,10 @@ for Channel in file_contents:
             TituloProgramaTv = TempSubTitulo
             #SubTituloProgramaTv = ""
         
-        myfile.write('<programme start="'+ ComienzoProgramaTv+ '" stop="'+ TerminacionProgramaTv+ '" channel="IzzI.'+ str(CanalID)+ '">\n')
+        myfile.write('<programme channel="IzzI.'+ str(CanalID)+ '" start="'+ ComienzoProgramaTv+ ' +0000" stop="'+ TerminacionProgramaTv+ ' +0000">\n')
         #ProgramasDelCanal.join(['<programme start="'+ ComienzoProgramaTv+ '" stop="'+ TerminacionProgramaTv+ '" channel="IzzI.'+ str(CanalID)+ '">\n'])
         #print(ProgramasDelCanal)
-        myfile.write('<title lang="es" >' + escape(TituloProgramaTv) + '</title>\n')
+        myfile.write('<title lang="es">' + escape(TituloProgramaTv) + '</title>\n')
         if SubTituloProgramaTv:
            myfile.write('<sub-title lang="es">' + escape(SubTituloProgramaTv) + '</sub-title>\n')
         #ExtraDescripcion = ""
@@ -359,6 +360,7 @@ for Channel in file_contents:
             myfile.write('<icon src="https://www.izzigo.tv/images/'+ ImagenProgramaTv +'/SNAPSHOT/m/0"/>\n') #POSTER PELICULA /POSTER/m/0
         else:
             myfile.write('<icon src="https://www.izzigo.tv/images/'+ ImagenProgramaTv +'/SNAPSHOT/m/0"/>\n') #SNAPSHOT PROGRAMA
+        myfile.write('<image type="backdrop" size="3" orient="L" system="tvdb">https://www.izzigo.tv/images/'+ ImagenProgramaTv +'/SNAPSHOT/l/0</image>\n')
         myfile.write('<desc lang="es">' + escape(ExtraDescripcion) + escape(DescripcionProgramaTv) + '</desc>\n')
         myfile.write('<date>' + str(FechaProgramaTV) + '</date>\n')
         myfile.write('<country>' + str(PaisProgramaTv) + '</country>\n')
