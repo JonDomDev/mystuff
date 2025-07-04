@@ -1,7 +1,7 @@
 {
     "err": 0,
     "mes": "OK",
-    "ver": 1737643500000,
+    "ver": 1751594100000,
     "vie": "channel-get",
     "chs": [
         {
@@ -15,13 +15,13 @@
                     "img": {
                         "dir": "ch/163",
                         "img_cnt": {
+                            "log": {
+                                "m": 2
+                            },
                             "sna": {
                                 "s": 1,
                                 "l": 1,
                                 "m": 1
-                            },
-                            "log": {
-                                "m": 2
                             }
                         }
                     },
@@ -35,9 +35,9 @@
                         "sna": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "s": "344/13781344-SNAPSHOT-s.png",
-                                "l": "344/13781344-SNAPSHOT-l.png",
-                                "m": "344/13781344-SNAPSHOT-m.png"
+                                "s": "759/18089759-SNAPSHOT-s.jpg",
+                                "l": "759/18089759-SNAPSHOT-l.jpg",
+                                "m": "759/18089759-SNAPSHOT-m.jpg"
                             }
                         }
                     }
@@ -84,7 +84,7 @@
                 {
                     "lan": "SPA",
                     "nam": "DreamWorks",
-                    "des": "Canal DreamWorks, Fecha de creación: 08-04-2022",
+                    "des": "Canal DreamWorks, Fecha de creaciï¿½n: 08-04-2022",
                     "img": {
                         "dir": "ch/1591",
                         "img_cnt": {
@@ -166,7 +166,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Discovery Turbo HD",
-                    "des": "Se creó el canal Discovery Turbo HD el día 07-05-2019",
+                    "des": "Se creï¿½ el canal Discovery Turbo HD el dï¿½a 07-05-2019",
                     "img": {
                         "dir": "ch/1234",
                         "img_cnt": {
@@ -274,7 +274,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Discovery Science HD",
-                    "des": "Se lanzó el día 07-05-2019",
+                    "des": "Se lanzï¿½ el dï¿½a 07-05-2019",
                     "img": {
                         "dir": "ch/1233",
                         "img_cnt": {
@@ -642,7 +642,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Home & Garden TV",
-                    "des": "Se lanzó el 30 de abril 2019",
+                    "des": "Se lanzï¿½ el 30 de abril 2019",
                     "img": {
                         "dir": "ch/1231",
                         "img_cnt": {
@@ -756,7 +756,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Dog TV",
-                    "des": "Se lanzó el día 30 de Abril del 2019",
+                    "des": "Se lanzï¿½ el dï¿½a 30 de Abril del 2019",
                     "img": {
                         "dir": "ch/1230",
                         "img_cnt": {
@@ -822,7 +822,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Food Network HD",
-                    "des": "Entró al aire el 29 de mayo del 2019",
+                    "des": "Entrï¿½ al aire el 29 de mayo del 2019",
                     "img": {
                         "dir": "ch/1242",
                         "img_cnt": {
@@ -936,7 +936,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Food Network",
-                    "des": "Entró al aire el 29 de mayo del 2019",
+                    "des": "Entrï¿½ al aire el 29 de mayo del 2019",
                     "img": {
                         "dir": "ch/1241",
                         "img_cnt": {
@@ -1050,7 +1050,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Heraldo TV",
-                    "des": "Salió al aire el 22 de Mayo del 2019\r\nSe da de baja el 20 de agosto 2020",
+                    "des": "Saliï¿½ al aire el 22 de Mayo del 2019\r\nSe da de baja el 20 de agosto 2020",
                     "img": {
                         "dir": "ch/1240",
                         "img_cnt": {
@@ -1116,7 +1116,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Sony Movies",
-                    "des": "Fecha de creación: 08-04-2022",
+                    "des": "Fecha de creaciï¿½n: 08-04-2022",
                     "img": {
                         "dir": "ch/1592",
                         "img_cnt": {
@@ -1230,7 +1230,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Curiosity Channel",
-                    "des": "Fecha de creación: 08-04-2022\r\nCambio de Nombre: 03-04-2023",
+                    "des": "Fecha de creaciï¿½n: 08-04-2022\r\nCambio de Nombre: 03-04-2023",
                     "img": {
                         "dir": "ch/1593",
                         "img_cnt": {
@@ -1344,7 +1344,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Mosaico Interés General",
+                    "nam": "Mosaico Interï¿½s General",
                     "des": "",
                     "img": {
                         "dir": "ch/11",
@@ -1853,7 +1853,7 @@
                                 "m": 1
                             },
                             "log": {
-                                "m": 2
+                                "m": 1
                             }
                         }
                     },
@@ -1861,7 +1861,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "414/17187414-LOGO-m.png"
+                                "m": "276/17592276-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -1962,7 +1962,7 @@
                 {
                     "lan": "SPA",
                     "nam": "CV Shopping",
-                    "des": "Antes nombrado \"CJ Shopping\" cambio realizado el día 1 de Abril del 2019",
+                    "des": "Antes nombrado \"CJ Shopping\" cambio realizado el dï¿½a 1 de Abril del 2019",
                     "img": {
                         "dir": "ch/19",
                         "img_cnt": {
@@ -2151,7 +2151,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "791/256791-LOGO-m.png"
+                                "m": "270/17592270-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -2358,13 +2358,127 @@
             "blk": false
         },
         {
+            "sid": "104769",
+            "sty": "TV_CHANNEL",
+            "ord": "101",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "Azteca uno",
+                    "des": "24519 -> ID para izzi tv\r\n102402 -> ID para legacy\r\n36607 -> ID monterrey\r\nNota:Miguel Angel Gonzalez\r\n\r\n102457 - 1 HOUR DELAY\r\n102456 - 2 HOUR DELAY \r\n104769 - XHDF2 13 (IZZI DUPLICATE)ï¿½\r\n104791 - XHDF2 13 HD [IZZI DUPLICATE HD]ï¿½",
+                    "img": {
+                        "dir": "ch/24",
+                        "img_cnt": {
+                            "sna": {
+                                "s": 1,
+                                "l": 1,
+                                "m": 1
+                            },
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "724/16975724-LOGO-m.png"
+                            }
+                        },
+                        "sna": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "s": "277/13781277-SNAPSHOT-s.png",
+                                "l": "277/13781277-SNAPSHOT-l.png",
+                                "m": "277/13781277-SNAPSHOT-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/104769",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [
+                {
+                    "sys": "MULTIRIGHTS",
+                    "pro": "broadpeak",
+                    "bufferSize": "604800",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cup": [
+                {
+                    "sys": "MULTIRIGHTS",
+                    "pro": "broadpeak",
+                    "bufferSize": "604800",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
             "sid": "82353",
             "sty": "TV_CHANNEL",
             "ord": "127",
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Excélsior TV",
+                    "nam": "Excï¿½lsior TV",
                     "img": {
                         "dir": "ch/29",
                         "img_cnt": {
@@ -2410,6 +2524,120 @@
             "blk": false
         },
         {
+            "sid": "104795",
+            "sty": "TV_CHANNEL",
+            "ord": "107",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "Azteca 7",
+                    "des": "16464 Nacional\r\n100025 Local -1 hora\r\n100026 Local -2 hora\r\n102455 - 1 HOUR DELAY\r\n102470 - 2 HOUR DELAY\r\n102406 Nacional ID para legacy",
+                    "img": {
+                        "dir": "ch/18",
+                        "img_cnt": {
+                            "sna": {
+                                "s": 1,
+                                "l": 1,
+                                "m": 1
+                            },
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "878/7809878-LOGO-m.png"
+                            }
+                        },
+                        "sna": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "s": "316/13781316-SNAPSHOT-s.png",
+                                "l": "316/13781316-SNAPSHOT-l.png",
+                                "m": "316/13781316-SNAPSHOT-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/104795",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [
+                {
+                    "sys": "MULTIRIGHTS",
+                    "pro": "broadpeak",
+                    "bufferSize": "604800",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cup": [
+                {
+                    "sys": "MULTIRIGHTS",
+                    "pro": "broadpeak",
+                    "bufferSize": "604800",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
             "sid": "87915",
             "sty": "TV_CHANNEL",
             "ord": "480",
@@ -2440,6 +2668,71 @@
             "liv": [
                 {
                     "url": "multirights://elemental/SVC/87915",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "15384",
+            "sty": "TV_CHANNEL",
+            "ord": "140",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "adn 40",
+                    "img": {
+                        "dir": "ch/35",
+                        "img_cnt": {
+                            "sna": {
+                                "s": 1,
+                                "l": 1,
+                                "m": 1
+                            },
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "214/12250214-LOGO-m.png"
+                            }
+                        },
+                        "sna": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "s": "674/13783674-SNAPSHOT-s.png",
+                                "l": "674/13783674-SNAPSHOT-l.png",
+                                "m": "674/13783674-SNAPSHOT-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/15384",
                     "sys": "MULTIRIGHTS",
                     "pro": "elemental",
                     "comb": [
@@ -2576,6 +2869,163 @@
             "blk": false
         },
         {
+            "sid": "105163",
+            "sty": "TV_CHANNEL",
+            "ord": "541",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "AYM SPORTS TV HD",
+                    "des": "Creado el dia 27-05-2025",
+                    "img": {
+                        "dir": "ch/1991",
+                        "img_cnt": {
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "710/18043710-LOGO-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/105163",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
+            "hd": true,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "136770",
+            "sty": "TV_CHANNEL",
+            "ord": "545",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "ITV DEPORTES",
+                    "des": "Creado el dia 27-05-2025",
+                    "img": {
+                        "dir": "ch/1992",
+                        "img_cnt": {
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "708/18043708-LOGO-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/136770",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "601142",
+            "sty": "TV_CHANNEL",
+            "ord": "482",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "TV Migrante",
+                    "des": "Canal dado de alta el dï¿½a 26-06-2025"
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/601142",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
             "sid": "150272",
             "sty": "TV_CHANNEL",
             "ord": "532",
@@ -2640,6 +3090,65 @@
             "sov": [],
             "cup": [],
             "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "184598",
+            "sty": "TV_CHANNEL",
+            "ord": "326",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "Edye",
+                    "des": "Creado el dï¿½a 27-05-2025",
+                    "img": {
+                        "dir": "ch/1993",
+                        "img_cnt": {
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "709/18043709-LOGO-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/184598",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
+            "hd": true,
             "4k": false,
             "isNPVR": false,
             "cen": false,
@@ -3550,7 +4059,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "602/17027602-LOGO-m.png"
+                                "m": "268/17592268-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -4436,7 +4945,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "¡Hola! TV",
+                    "nam": "ï¿½Hola! TV",
                     "img": {
                         "dir": "ch/70",
                         "img_cnt": {
@@ -5008,7 +5517,7 @@
                                 "m": 1
                             },
                             "log": {
-                                "m": 2
+                                "m": 1
                             }
                         }
                     },
@@ -5016,7 +5525,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "359/17191359-LOGO-m.png"
+                                "m": "283/17592283-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -5132,7 +5641,7 @@
                 {
                     "lan": "SPA",
                     "nam": "MTV 00s",
-                    "des": "Se actualizó el logo el día 7 de Octubre del 2020",
+                    "des": "Se actualizï¿½ el logo el dï¿½a 7 de Octubre del 2020",
                     "img": {
                         "dir": "ch/78",
                         "img_cnt": {
@@ -6010,7 +6519,7 @@
                 {
                     "lan": "SPA",
                     "nam": "MTV 80s",
-                    "des": "Antes VH1 Classics cambiado el día 5-10-2020",
+                    "des": "Antes VH1 Classics cambiado el dï¿½a 5-10-2020",
                     "img": {
                         "dir": "ch/89",
                         "img_cnt": {
@@ -6020,7 +6529,7 @@
                                 "m": 1
                             },
                             "log": {
-                                "m": 2
+                                "m": 1
                             }
                         }
                     },
@@ -6028,7 +6537,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "303/9437303-LOGO-m.png"
+                                "m": "285/17592285-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -6106,7 +6615,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Clan HD",
-                    "des": "Salió al aire el 01 de Octubre del 2019",
+                    "des": "Saliï¿½ al aire el 01 de Octubre del 2019",
                     "img": {
                         "dir": "ch/1271",
                         "img_cnt": {
@@ -6188,16 +6697,16 @@
                 {
                     "lan": "SPA",
                     "nam": "Atres Cine HD",
-                    "des": "Salió al aire el 01 de Octubre del 2019",
+                    "des": "Saliï¿½ al aire el 01 de Octubre del 2019",
                     "img": {
                         "dir": "ch/1270",
                         "img_cnt": {
+                            "log": {
+                                "m": 1
+                            },
                             "sna": {
                                 "s": 1,
                                 "l": 1,
-                                "m": 1
-                            },
-                            "log": {
                                 "m": 1
                             }
                         }
@@ -6212,9 +6721,9 @@
                         "sna": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "s": "838/13748838-SNAPSHOT-s.png",
-                                "l": "838/13748838-SNAPSHOT-l.png",
-                                "m": "838/13748838-SNAPSHOT-m.png"
+                                "s": "760/18089760-SNAPSHOT-s.jpg",
+                                "l": "760/18089760-SNAPSHOT-l.jpg",
+                                "m": "760/18089760-SNAPSHOT-m.jpg"
                             }
                         }
                     }
@@ -6439,6 +6948,12 @@
                                 "PR",
                                 "WV"
                             ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
                         }
                     ]
                 }
@@ -6454,6 +6969,12 @@
                             "drm": [
                                 "PR",
                                 "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
                             ]
                         }
                     ]
@@ -6823,7 +7344,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "FRANCE 24 ESPAÑOL HD",
+                    "nam": "FRANCE 24 ESPAï¿½OL HD",
                     "des": "Creado Fecha14-03-24 para atender requimiento 20230711",
                     "img": {
                         "dir": "ch/1821",
@@ -6860,38 +7381,8 @@
                     ]
                 }
             ],
-            "sov": [
-                {
-                    "sys": "MULTIRIGHTS",
-                    "pro": "broadpeak",
-                    "bufferSize": "604800",
-                    "comb": [
-                        {
-                            "packg": "DASH",
-                            "drm": [
-                                "PR",
-                                "WV"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "cup": [
-                {
-                    "sys": "MULTIRIGHTS",
-                    "pro": "broadpeak",
-                    "bufferSize": "604800",
-                    "comb": [
-                        {
-                            "packg": "DASH",
-                            "drm": [
-                                "PR",
-                                "WV"
-                            ]
-                        }
-                    ]
-                }
-            ],
+            "sov": [],
+            "cup": [],
             "hd": true,
             "4k": false,
             "isNPVR": false,
@@ -7035,7 +7526,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Cartoonito",
-                    "des": "Fecha de creación: 01-12-2021\r\nDebido al cambio de canal de Boomerang a Cartoonito",
+                    "des": "Fecha de creaciï¿½n: 01-12-2021\r\nDebido al cambio de canal de Boomerang a Cartoonito",
                     "img": {
                         "dir": "ch/1550",
                         "img_cnt": {
@@ -7158,7 +7649,7 @@
                 {
                     "lan": "SPA",
                     "nam": "bitMe",
-                    "des": "Antes Tiin, cambio el nombre el día 15 de Julio del 2019",
+                    "des": "Antes Tiin, cambio el nombre el dï¿½a 15 de Julio del 2019",
                     "img": {
                         "dir": "ch/108",
                         "img_cnt": {
@@ -7470,7 +7961,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Once Niñas y Niños",
+                    "nam": "Once Niï¿½as y Niï¿½os",
                     "des": "Cambio de nombre requerido el 22 de Marzo del 2020",
                     "img": {
                         "dir": "ch/36",
@@ -7632,7 +8123,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Star HD",
-                    "des": "Salió al aire el 01 de Octubre del 2019",
+                    "des": "Saliï¿½ al aire el 01 de Octubre del 2019",
                     "img": {
                         "dir": "ch/1272",
                         "img_cnt": {
@@ -7809,13 +8300,13 @@
                     "img": {
                         "dir": "ch/115",
                         "img_cnt": {
+                            "log": {
+                                "m": 3
+                            },
                             "sna": {
                                 "s": 1,
                                 "l": 1,
                                 "m": 1
-                            },
-                            "log": {
-                                "m": 3
                             }
                         }
                     },
@@ -7829,9 +8320,9 @@
                         "sna": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "s": "411/13800411-SNAPSHOT-s.png",
-                                "l": "411/13800411-SNAPSHOT-l.png",
-                                "m": "411/13800411-SNAPSHOT-m.png"
+                                "s": "758/18089758-SNAPSHOT-s.png",
+                                "l": "758/18089758-SNAPSHOT-l.png",
+                                "m": "758/18089758-SNAPSHOT-m.png"
                             }
                         }
                     }
@@ -8258,7 +8749,7 @@
                 {
                     "lan": "SPA",
                     "nam": "History 2",
-                    "des": "Antes \"H2\" cambio de nombre solicitado para el día 15 de enero 2018",
+                    "des": "Antes \"H2\" cambio de nombre solicitado para el dï¿½a 15 de enero 2018",
                     "img": {
                         "dir": "ch/123",
                         "img_cnt": {
@@ -8754,7 +9245,7 @@
                 {
                     "lan": "SPA",
                     "nam": "TUDN",
-                    "des": "Antes TDN cambio el nombre el día 20 de Julio del 2019",
+                    "des": "Antes TDN cambio el nombre el dï¿½a 20 de Julio del 2019",
                     "img": {
                         "dir": "ch/134",
                         "img_cnt": {
@@ -9631,7 +10122,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Adrenalina Sports Network",
-                    "des": "Antes Fighting Sports Network cambiado desde el día 14 diciembre 2018",
+                    "des": "Antes Fighting Sports Network cambiado desde el dï¿½a 14 diciembre 2018",
                     "img": {
                         "dir": "ch/145",
                         "img_cnt": {
@@ -9702,7 +10193,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Mosaico Películas",
+                    "nam": "Mosaico Pelï¿½culas",
                     "img": {
                         "dir": "ch/146",
                         "img_cnt": {
@@ -9876,17 +10367,17 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "De Película",
-                    "des": "Actualización de Logo el día : 01-03-2021",
+                    "nam": "De Pelï¿½cula",
+                    "des": "Actualizaciï¿½n de Logo el dï¿½a : 01-03-2021",
                     "img": {
                         "dir": "ch/149",
                         "img_cnt": {
+                            "log": {
+                                "m": 1
+                            },
                             "sna": {
                                 "s": 1,
                                 "l": 1,
-                                "m": 1
-                            },
-                            "log": {
                                 "m": 1
                             }
                         }
@@ -9901,9 +10392,9 @@
                         "sna": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "s": "397/13800397-SNAPSHOT-s.png",
-                                "l": "397/13800397-SNAPSHOT-l.png",
-                                "m": "397/13800397-SNAPSHOT-m.png"
+                                "s": "763/18089763-SNAPSHOT-s.jpg",
+                                "l": "763/18089763-SNAPSHOT-l.jpg",
+                                "m": "763/18089763-SNAPSHOT-m.jpg"
                             }
                         }
                     }
@@ -10423,7 +10914,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Quiero TV",
-                    "des": "Antes Ocho TV el cambio se solicito el día 04/01/2019",
+                    "des": "Antes Ocho TV el cambio se solicito el dï¿½a 04/01/2019",
                     "img": {
                         "dir": "ch/370",
                         "img_cnt": {
@@ -10535,6 +11026,108 @@
                     "pro": "Mirada",
                     "bufferSize": "10200"
                 },
+                {
+                    "sys": "MULTIRIGHTS",
+                    "pro": "broadpeak",
+                    "bufferSize": "604800",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cup": [
+                {
+                    "sys": "MULTIRIGHTS",
+                    "pro": "broadpeak",
+                    "bufferSize": "604800",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "160762",
+            "sty": "TV_CHANNEL",
+            "ord": "68",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "SKY One",
+                    "des": "Creado el 29-05-2024",
+                    "img": {
+                        "dir": "ch/1856",
+                        "img_cnt": {
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "676/16482676-LOGO-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/160762",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [
                 {
                     "sys": "MULTIRIGHTS",
                     "pro": "broadpeak",
@@ -10993,12 +11586,12 @@
                     "img": {
                         "dir": "ch/160",
                         "img_cnt": {
+                            "log": {
+                                "m": 1
+                            },
                             "sna": {
                                 "s": 1,
                                 "l": 1,
-                                "m": 1
-                            },
-                            "log": {
                                 "m": 1
                             }
                         }
@@ -11013,9 +11606,9 @@
                         "sna": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "s": "637/13797637-SNAPSHOT-s.png",
-                                "l": "637/13797637-SNAPSHOT-l.png",
-                                "m": "637/13797637-SNAPSHOT-m.png"
+                                "s": "762/18089762-SNAPSHOT-s.jpg",
+                                "l": "762/18089762-SNAPSHOT-l.jpg",
+                                "m": "762/18089762-SNAPSHOT-m.jpg"
                             }
                         }
                     }
@@ -12239,7 +12832,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "956/256956-LOGO-m.png"
+                                "m": "280/17592280-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -12265,11 +12858,38 @@
                             "drm": [
                                 "WV"
                             ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
                         }
                     ]
                 }
             ],
-            "sov": [],
+            "sov": [
+                {
+                    "sys": "MULTIRIGHTS",
+                    "pro": "broadpeak",
+                    "bufferSize": "604800",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
             "cup": [
                 {
                     "sys": "MULTIRIGHTS",
@@ -12281,6 +12901,12 @@
                             "drm": [
                                 "PR",
                                 "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
                             ]
                         }
                     ]
@@ -12491,7 +13117,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "DW Latinoamérica",
+                    "nam": "DW Latinoamï¿½rica",
                     "img": {
                         "dir": "ch/666",
                         "img_cnt": {
@@ -12685,7 +13311,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Mosaico Noticias e Información",
+                    "nam": "Mosaico Noticias e Informaciï¿½n",
                     "img": {
                         "dir": "ch/196",
                         "img_cnt": {
@@ -12743,7 +13369,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "CNN en Español",
+                    "nam": "CNN en Espaï¿½ol",
                     "img": {
                         "dir": "ch/197",
                         "img_cnt": {
@@ -13152,6 +13778,71 @@
             "blk": false
         },
         {
+            "sid": "114386",
+            "sty": "TV_CHANNEL",
+            "ord": "85",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "adn 40",
+                    "img": {
+                        "dir": "ch/35",
+                        "img_cnt": {
+                            "sna": {
+                                "s": 1,
+                                "l": 1,
+                                "m": 1
+                            },
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "214/12250214-LOGO-m.png"
+                            }
+                        },
+                        "sna": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "s": "674/13783674-SNAPSHOT-s.png",
+                                "l": "674/13783674-SNAPSHOT-l.png",
+                                "m": "674/13783674-SNAPSHOT-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/114386",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
             "sid": "40704",
             "sty": "TV_CHANNEL",
             "ord": "187",
@@ -13205,75 +13896,16 @@
             "blk": false
         },
         {
-            "sid": "165963",
-            "sty": "TV_CHANNEL",
-            "ord": "569",
-            "loc": [
-                {
-                    "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 69",
-                    "des": "Canal NFL SKY creado 11-09-24",
-                    "img": {
-                        "dir": "ch/1946",
-                        "img_cnt": {
-                            "log": {
-                                "m": 1
-                            }
-                        }
-                    },
-                    "img_lnk": {
-                        "log": {
-                            "url": "/images/repository/{image-size}",
-                            "sizes": {
-                                "m": "988/16837988-LOGO-m.png"
-                            }
-                        }
-                    }
-                }
-            ],
-            "ava": true,
-            "liv": [
-                {
-                    "url": "multirights://elemental/SVC/165963",
-                    "sys": "MULTIRIGHTS",
-                    "pro": "elemental",
-                    "comb": [
-                        {
-                            "packg": "DASH",
-                            "drm": [
-                                "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "sov": [],
-            "cup": [],
-            "hd": false,
-            "4k": false,
-            "isNPVR": false,
-            "cen": false,
-            "ppv": false,
-            "imb": false,
-            "blk": false
-        },
-        {
             "sid": "165962",
             "sty": "TV_CHANNEL",
-            "ord": "568",
+            "ord": "558",
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 68",
-                    "des": "Canal NFL SKY creado 11-09-24",
+                    "nam": "MLB EI 8",
+                    "des": "Creado bajo requerimiento el dia 12-03-25 \r\nComplemento Premium a la carta MLB",
                     "img": {
-                        "dir": "ch/1947",
+                        "dir": "ch/1988",
                         "img_cnt": {
                             "log": {
                                 "m": 1
@@ -13284,7 +13916,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "987/16837987-LOGO-m.png"
+                                "m": "365/17726365-LOGO-m.png"
                             }
                         }
                     }
@@ -13300,6 +13932,7 @@
                         {
                             "packg": "DASH",
                             "drm": [
+                                "PR",
                                 "WV"
                             ]
                         },
@@ -13325,14 +13958,14 @@
         {
             "sid": "165961",
             "sty": "TV_CHANNEL",
-            "ord": "567",
+            "ord": "557",
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 67",
-                    "des": "Canal NFL SKY creado 11-09-24",
+                    "nam": "MLB EI 7",
+                    "des": "Creado bajo requerimiento el dia 12-03-25\r\nComplemento Premium a la carta MLB",
                     "img": {
-                        "dir": "ch/1945",
+                        "dir": "ch/1987",
                         "img_cnt": {
                             "log": {
                                 "m": 1
@@ -13343,7 +13976,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "986/16837986-LOGO-m.png"
+                                "m": "364/17726364-LOGO-m.png"
                             }
                         }
                     }
@@ -13359,6 +13992,7 @@
                         {
                             "packg": "DASH",
                             "drm": [
+                                "PR",
                                 "WV"
                             ]
                         },
@@ -13384,14 +14018,14 @@
         {
             "sid": "165960",
             "sty": "TV_CHANNEL",
-            "ord": "566",
+            "ord": "556",
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 66",
-                    "des": "Canal NFL SKY creado 11-09-24",
+                    "nam": "MLB EI 6",
+                    "des": "Creado bajo requerimiento el dia 12-03-25\r\nComplemento Premium a la carta MLB",
                     "img": {
-                        "dir": "ch/1944",
+                        "dir": "ch/1986",
                         "img_cnt": {
                             "log": {
                                 "m": 1
@@ -13402,7 +14036,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "983/16837983-LOGO-m.png"
+                                "m": "363/17726363-LOGO-m.png"
                             }
                         }
                     }
@@ -13418,6 +14052,7 @@
                         {
                             "packg": "DASH",
                             "drm": [
+                                "PR",
                                 "WV"
                             ]
                         },
@@ -13447,7 +14082,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Rock en Español",
+                    "nam": "Rock en Espaï¿½ol",
                     "des": "Antes: \"Rock Latino\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/210",
@@ -13636,7 +14271,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "MásChic",
+                    "nam": "Mï¿½sChic",
                     "img": {
                         "dir": "ch/68",
                         "img_cnt": {
@@ -13739,7 +14374,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Azteca uno",
-                    "des": "24519 -> ID para izzi tv\r\n102402 -> ID para legacy\r\n36607 -> ID monterrey\r\nNota:Miguel Angel Gonzalez\r\n\r\n102457 - 1 HOUR DELAY\r\n102456 - 2 HOUR DELAY \r\n104769 - XHDF2 13 (IZZI DUPLICATE) \r\n104791 - XHDF2 13 HD [IZZI DUPLICATE HD] ",
+                    "des": "24519 -> ID para izzi tv\r\n102402 -> ID para legacy\r\n36607 -> ID monterrey\r\nNota:Miguel Angel Gonzalez\r\n\r\n102457 - 1 HOUR DELAY\r\n102456 - 2 HOUR DELAY \r\n104769 - XHDF2 13 (IZZI DUPLICATE)ï¿½\r\n104791 - XHDF2 13 HD [IZZI DUPLICATE HD]ï¿½",
                     "img": {
                         "dir": "ch/24",
                         "img_cnt": {
@@ -13805,7 +14440,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Romance Latino",
-                    "des": "Antes: \"Baladas en español\" fecha de cambio: 12-01-2021",
+                    "des": "Antes: \"Baladas en espaï¿½ol\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/211",
                         "img_cnt": {
@@ -13943,7 +14578,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Pop Latino Actual",
-                    "des": "Antes: \"Éxitos en Español\" fecha de cambio: 12-01-2021",
+                    "des": "Antes: \"ï¿½xitos en Espaï¿½ol\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/212",
                         "img_cnt": {
@@ -14018,7 +14653,7 @@
                                 "m": 1
                             },
                             "log": {
-                                "m": 2
+                                "m": 1
                             }
                         }
                     },
@@ -14026,7 +14661,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "125/8454125-LOGO-m.png"
+                                "m": "278/17592278-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -14395,7 +15030,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Latino Tropical",
-                    "des": "Antes: \"Música Tropical\" fecha de cambio: 12-01-2021",
+                    "des": "Antes: \"Mï¿½sica Tropical\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/214",
                         "img_cnt": {
@@ -14456,14 +15091,14 @@
         {
             "sid": "165956",
             "sty": "TV_CHANNEL",
-            "ord": "562",
+            "ord": "552",
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 62",
-                    "des": "Canal NFL SKY creado 11-09-24",
+                    "nam": "MLB EI 2",
+                    "des": "Creado bajo requerimiento el dia 12-03-25\r\nComplemento Premium a la carta MLB",
                     "img": {
-                        "dir": "ch/1940",
+                        "dir": "ch/1982",
                         "img_cnt": {
                             "log": {
                                 "m": 1
@@ -14474,7 +15109,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "976/16837976-LOGO-m.png"
+                                "m": "359/17726359-LOGO-m.png"
                             }
                         }
                     }
@@ -14490,6 +15125,7 @@
                         {
                             "packg": "DASH",
                             "drm": [
+                                "PR",
                                 "WV"
                             ]
                         },
@@ -14519,7 +15155,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Viva México",
+                    "nam": "Viva Mï¿½xico",
                     "des": "Antes: \"Regional Mexicana\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/215",
@@ -14765,14 +15401,14 @@
         {
             "sid": "165959",
             "sty": "TV_CHANNEL",
-            "ord": "565",
+            "ord": "555",
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 65",
-                    "des": "Canal NFL SKY creado 11-09-24",
+                    "nam": "MLB EI 5",
+                    "des": "Creado bajo requerimiento el dia 12-03-25\r\nComplemento Premium a la carta MLB",
                     "img": {
-                        "dir": "ch/1943",
+                        "dir": "ch/1985",
                         "img_cnt": {
                             "log": {
                                 "m": 1
@@ -14783,7 +15419,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "980/16837980-LOGO-m.png"
+                                "m": "362/17726362-LOGO-m.png"
                             }
                         }
                     }
@@ -14799,6 +15435,7 @@
                         {
                             "packg": "DASH",
                             "drm": [
+                                "PR",
                                 "WV"
                             ]
                         },
@@ -14890,14 +15527,14 @@
         {
             "sid": "165958",
             "sty": "TV_CHANNEL",
-            "ord": "564",
+            "ord": "554",
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 64",
-                    "des": "Canal NFL SKY creado 11-09-24",
+                    "nam": "MLB EI 4",
+                    "des": "Creado bajo requerimiento el dia 12-03-25\r\nComplemento Premium a la carta MLB",
                     "img": {
-                        "dir": "ch/1942",
+                        "dir": "ch/1984",
                         "img_cnt": {
                             "log": {
                                 "m": 1
@@ -14908,7 +15545,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "978/16837978-LOGO-m.png"
+                                "m": "361/17726361-LOGO-m.png"
                             }
                         }
                     }
@@ -14924,6 +15561,7 @@
                         {
                             "packg": "DASH",
                             "drm": [
+                                "PR",
                                 "WV"
                             ]
                         },
@@ -14954,7 +15592,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Himnos del Rock",
-                    "des": "Antes: \"Rock Clásico\" fecha de cambio: 12-01-2021",
+                    "des": "Antes: \"Rock Clï¿½sico\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/220",
                         "img_cnt": {
@@ -15019,7 +15657,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Éxitos de los 70",
+                    "nam": "ï¿½xitos de los 70",
                     "img": {
                         "dir": "ch/221",
                         "img_cnt": {
@@ -15080,14 +15718,14 @@
         {
             "sid": "165957",
             "sty": "TV_CHANNEL",
-            "ord": "563",
+            "ord": "553",
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 63",
-                    "des": "Canal NFL SKY creado 11-09-24",
+                    "nam": "MLB EI 3",
+                    "des": "Creado bajo requerimiento el dia 12-03-25\r\nComplemento Premium a la carta MLB",
                     "img": {
-                        "dir": "ch/1941",
+                        "dir": "ch/1983",
                         "img_cnt": {
                             "log": {
                                 "m": 1
@@ -15098,7 +15736,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "977/16837977-LOGO-m.png"
+                                "m": "360/17726360-LOGO-m.png"
                             }
                         }
                     }
@@ -15114,6 +15752,7 @@
                         {
                             "packg": "DASH",
                             "drm": [
+                                "PR",
                                 "WV"
                             ]
                         },
@@ -15143,7 +15782,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Éxitos de los 80",
+                    "nam": "ï¿½xitos de los 80",
                     "img": {
                         "dir": "ch/222",
                         "img_cnt": {
@@ -15208,7 +15847,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Éxitos de los 90",
+                    "nam": "ï¿½xitos de los 90",
                     "img": {
                         "dir": "ch/223",
                         "img_cnt": {
@@ -15273,7 +15912,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Éxitos Europeos",
+                    "nam": "ï¿½xitos Europeos",
                     "img": {
                         "dir": "ch/224",
                         "img_cnt": {
@@ -15469,7 +16108,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Clásicos del Dance",
+                    "nam": "Clï¿½sicos del Dance",
                     "des": "Antes: \"Disco\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/227",
@@ -15601,7 +16240,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Éxitos Románticos",
+                    "nam": "ï¿½xitos Romï¿½nticos",
                     "img": {
                         "dir": "ch/229",
                         "img_cnt": {
@@ -15666,8 +16305,8 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Éxitos en Inglés",
-                    "des": "Antes: \"Música de las Américas\" fecha de cambio: 12-01-2021",
+                    "nam": "ï¿½xitos en Inglï¿½s",
+                    "des": "Antes: \"Mï¿½sica de las Amï¿½ricas\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/230",
                         "img_cnt": {
@@ -15798,7 +16437,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Música Popular Brasileira",
+                    "nam": "Mï¿½sica Popular Brasileira",
                     "img": {
                         "dir": "ch/232",
                         "img_cnt": {
@@ -15993,8 +16632,8 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Éxitos de Italia",
-                    "des": "Antes: \"Éxitos Italianos\" fecha de cambio: 12-01-2021",
+                    "nam": "ï¿½xitos de Italia",
+                    "des": "Antes: \"ï¿½xitos Italianos\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/235",
                         "img_cnt": {
@@ -16173,8 +16812,8 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Éxitos de las Américas",
-                    "des": "Antes: \"Éxitos en Ingles\" fecha de cambio: 12-01-2021",
+                    "nam": "ï¿½xitos de las Amï¿½ricas",
+                    "des": "Antes: \"ï¿½xitos en Ingles\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/236",
                         "img_cnt": {
@@ -16239,7 +16878,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Reggaetón",
+                    "nam": "Reggaetï¿½n",
                     "des": "Antes: \"Reggaeton\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/237",
@@ -16305,7 +16944,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "R&B Clásico",
+                    "nam": "R&B Clï¿½sico",
                     "img": {
                         "dir": "ch/238",
                         "img_cnt": {
@@ -16435,7 +17074,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "El Salón chill",
+                    "nam": "El Salï¿½n chill",
                     "des": "Antes: \"Groove Lounge\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/240",
@@ -16502,7 +17141,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Pop Adulto",
-                    "des": "Antes: \"Adulto Contemporánea\" fecha de cambio: 12-01-2021",
+                    "des": "Antes: \"Adulto Contemporï¿½nea\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/241",
                         "img_cnt": {
@@ -16567,7 +17206,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Clásicos Indie",
+                    "nam": "Clï¿½sicos Indie",
                     "des": "Antes: \"New Wave\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/242",
@@ -16700,7 +17339,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Fiesta Continua",
-                    "des": "Antes: \"Éxitos de los 50\" fecha de cambio: 12-01-2021",
+                    "des": "Antes: \"ï¿½xitos de los 50\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/244",
                         "img_cnt": {
@@ -16765,8 +17404,8 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Viejitas pero Buenísimas",
-                    "des": "Antes: \"Clásico del Rock & Roll\" fecha de cambio: 12-01-2021",
+                    "nam": "Viejitas pero Buenï¿½simas",
+                    "des": "Antes: \"Clï¿½sico del Rock & Roll\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/245",
                         "img_cnt": {
@@ -16946,7 +17585,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Sólo para Peques",
+                    "nam": "Sï¿½lo para Peques",
                     "des": "Antes: \"Chicos\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/246",
@@ -17249,7 +17888,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Éxitos de Brasil",
+                    "nam": "ï¿½xitos de Brasil",
                     "des": "Antes: \"Top 40 Brasil\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/249",
@@ -17510,7 +18149,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Estándares",
+                    "nam": "Estï¿½ndares",
                     "des": "Antes: \"Grandes Cantantes\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/253",
@@ -17577,7 +18216,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Cocktail Lounge",
-                    "des": "Antes: \"Clásicos Instrumentales\" fecha de cambio: 12-01-2021",
+                    "des": "Antes: \"Clï¿½sicos Instrumentales\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/254",
                         "img_cnt": {
@@ -17642,7 +18281,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Música Ligera",
+                    "nam": "Mï¿½sica Ligera",
                     "des": "Antes: \"Piano\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/255",
@@ -17708,8 +18347,8 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Clásicos para Todos",
-                    "des": "Antes: \"Música Clásica\" fecha de cambio: 12-01-2021",
+                    "nam": "Clï¿½sicos para Todos",
+                    "des": "Antes: \"Mï¿½sica Clï¿½sica\" fecha de cambio: 12-01-2021",
                     "img": {
                         "dir": "ch/256",
                         "img_cnt": {
@@ -17775,7 +18414,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Retro Latino",
-                    "des": "Creado el 31-03-2021 para cambiar el canal de \"Maestros del Clásico\"",
+                    "des": "Creado el 31-03-2021 para cambiar el canal de \"Maestros del Clï¿½sico\"",
                     "img": {
                         "dir": "ch/1461",
                         "img_cnt": {
@@ -18238,7 +18877,7 @@
                 {
                     "lan": "SPA",
                     "nam": "bitMe HD",
-                    "des": "Se lanzó al aire el día 20 de Julio 2019",
+                    "des": "Se lanzï¿½ al aire el dï¿½a 20 de Julio 2019",
                     "img": {
                         "dir": "ch/1263",
                         "img_cnt": {
@@ -18346,7 +18985,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "413/17187413-LOGO-m.png"
+                                "m": "275/17592275-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -18404,6 +19043,102 @@
                             "packg": "HLS",
                             "drm": [
                                 "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cup": [
+                {
+                    "sys": "MULTIRIGHTS",
+                    "pro": "broadpeak",
+                    "bufferSize": "604800",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "hd": true,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "56276",
+            "sty": "TV_CHANNEL",
+            "ord": "807",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "Azteca 7 HD",
+                    "des": "56276 HD\r\n100027 - 1 HORA HD\r\n100028 - 2 HORA HD\r\n100025 - 1 HORA HD\r\n102455 - 2 HORA HD\r\n100026 - 1 HORA HD\r\n102470 - 2 HORA HD\r\n85572 - Monterrey\r\n91731 - Monterrey",
+                    "img": {
+                        "dir": "ch/271",
+                        "img_cnt": {
+                            "sna": {
+                                "s": 1,
+                                "l": 1,
+                                "m": 1
+                            },
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "269/6723269-LOGO-m.png"
+                            }
+                        },
+                        "sna": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "s": "317/13781317-SNAPSHOT-s.png",
+                                "l": "317/13781317-SNAPSHOT-l.png",
+                                "m": "317/13781317-SNAPSHOT-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/56276",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [
+                {
+                    "sys": "MULTIRIGHTS",
+                    "pro": "broadpeak",
+                    "bufferSize": "604800",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
                             ]
                         }
                     ]
@@ -18533,6 +19268,108 @@
                             "packg": "HLS",
                             "drm": [
                                 "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "hd": true,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "52628",
+            "sty": "TV_CHANNEL",
+            "ord": "801",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "Azteca uno HD",
+                    "des": "52628 - HD izzi tv\r\n91751 - Monterrey\r\n102402 -> ID para legacy\r\n100030 - 1 HOUR DELAY\r\n100033 - 2 HOUR DELAY \r\n100034 - 1 HOUR DELAY\r\n102457 - 1 HOUR DELAY\r\n102456 - 2 HOUR DELAY\r\n100032 - 2 HOUR DELAY",
+                    "img": {
+                        "dir": "ch/274",
+                        "img_cnt": {
+                            "sna": {
+                                "s": 1,
+                                "l": 1,
+                                "m": 1
+                            },
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "725/16975725-LOGO-m.png"
+                            }
+                        },
+                        "sna": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "s": "278/13781278-SNAPSHOT-s.png",
+                                "l": "278/13781278-SNAPSHOT-l.png",
+                                "m": "278/13781278-SNAPSHOT-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/52628",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [
+                {
+                    "sys": "MULTIRIGHTS",
+                    "pro": "broadpeak",
+                    "bufferSize": "604800",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cup": [
+                {
+                    "sys": "MULTIRIGHTS",
+                    "pro": "broadpeak",
+                    "bufferSize": "604800",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "PR",
+                                "WV"
                             ]
                         }
                     ]
@@ -19064,7 +19901,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "617/17027617-LOGO-m.png"
+                                "m": "269/17592269-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -20857,13 +21694,13 @@
                     "img": {
                         "dir": "ch/129",
                         "img_cnt": {
+                            "log": {
+                                "m": 2
+                            },
                             "sna": {
                                 "s": 1,
                                 "l": 1,
                                 "m": 1
-                            },
-                            "log": {
-                                "m": 2
                             }
                         }
                     },
@@ -20877,9 +21714,9 @@
                         "sna": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "s": "837/13748837-SNAPSHOT-s.png",
-                                "l": "837/13748837-SNAPSHOT-l.png",
-                                "m": "837/13748837-SNAPSHOT-m.png"
+                                "s": "761/18089761-SNAPSHOT-s.jpg",
+                                "l": "761/18089761-SNAPSHOT-l.jpg",
+                                "m": "761/18089761-SNAPSHOT-m.jpg"
                             }
                         }
                     }
@@ -21235,7 +22072,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Real Madrid TV HD",
-                    "des": "Fecha de creación : Octubre 2018",
+                    "des": "Fecha de creaciï¿½n : Octubre 2018",
                     "img": {
                         "dir": "ch/1201",
                         "img_cnt": {
@@ -21306,8 +22143,8 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Telehit Música Plus",
-                    "des": "Antes \"Telehit HD\" cambio el día 14-09-2020",
+                    "nam": "Telehit Mï¿½sica Plus",
+                    "des": "Antes \"Telehit HD\" cambio el dï¿½a 14-09-2020",
                     "img": {
                         "dir": "ch/293",
                         "img_cnt": {
@@ -21421,7 +22258,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Real Madrid TV",
-                    "des": "Fecha de creación: 04 Abril 2019",
+                    "des": "Fecha de creaciï¿½n: 04 Abril 2019",
                     "img": {
                         "dir": "ch/1200",
                         "img_cnt": {
@@ -21611,7 +22448,7 @@
                 {
                     "lan": "SPA",
                     "nam": "MTV 00s HD",
-                    "des": "Se actulizó el logo el día 07-10-2020",
+                    "des": "Se actulizï¿½ el logo el dï¿½a 07-10-2020",
                     "img": {
                         "dir": "ch/295",
                         "img_cnt": {
@@ -22059,7 +22896,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "¡Hola! TV HD",
+                    "nam": "ï¿½Hola! TV HD",
                     "img": {
                         "dir": "ch/299",
                         "img_cnt": {
@@ -22804,7 +23641,7 @@
                 {
                     "lan": "SPA",
                     "nam": "TUDN HD",
-                    "des": "Antes TDN HD cambio el nombre el día 20 de Julio del 2019",
+                    "des": "Antes TDN HD cambio el nombre el dï¿½a 20 de Julio del 2019",
                     "img": {
                         "dir": "ch/306",
                         "img_cnt": {
@@ -24082,14 +24919,73 @@
             "blk": false
         },
         {
+            "sid": "184497",
+            "sty": "TV_CHANNEL",
+            "ord": "547",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "Mï¿½xico al aire libre",
+                    "des": "Canal dado de alta el dï¿½a 26-06-2025",
+                    "img": {
+                        "dir": "ch/2004",
+                        "img_cnt": {
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "164/18190164-LOGO-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/184497",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
             "sid": "74016",
             "sty": "TV_CHANNEL",
             "ord": "910",
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "De Película Plus HD",
-                    "des": "Antes \" De Película HD \" cambio a partir de : 01-03-2021",
+                    "nam": "De Pelï¿½cula Plus HD",
+                    "des": "Antes \" De Pelï¿½cula HD \" cambio a partir de : 01-03-2021",
                     "img": {
                         "dir": "ch/315",
                         "img_cnt": {
@@ -24207,7 +25103,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Universal Premier",
+                    "nam": "Universal Premiere",
                     "des": "Antes \" FOX Series (East) \" cambio a partir de : 01-02-2022\r\nAntes \" FOX Series (East) \" cambio a partir de : 01-03-2021",
                     "img": {
                         "dir": "ch/177",
@@ -24226,7 +25122,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "397/17008397-LOGO-m.png"
+                                "m": "273/17592273-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -24306,6 +25202,65 @@
                     ]
                 }
             ],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "184495",
+            "sty": "TV_CHANNEL",
+            "ord": "543",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "Beisbol Latino",
+                    "des": "Canal dado de alta el dï¿½a 26-06-2025",
+                    "img": {
+                        "dir": "ch/2002",
+                        "img_cnt": {
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "151/18190151-LOGO-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/184495",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
             "hd": false,
             "4k": false,
             "isNPVR": false,
@@ -24420,6 +25375,65 @@
                 }
             ],
             "hd": true,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "184494",
+            "sty": "TV_CHANNEL",
+            "ord": "542",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "Basket Americas",
+                    "des": "Canal dado de alta el dï¿½a 26-06-2025",
+                    "img": {
+                        "dir": "ch/2001",
+                        "img_cnt": {
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "150/18190150-LOGO-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/184494",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
+            "hd": false,
             "4k": false,
             "isNPVR": false,
             "cen": false,
@@ -24547,7 +25561,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "María Visión",
+                    "nam": "Marï¿½a Visiï¿½n",
                     "img": {
                         "dir": "ch/434",
                         "img_cnt": {
@@ -24577,6 +25591,65 @@
                             "packg": "DASH",
                             "drm": [
                                 "WV"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "110459",
+            "sty": "TV_CHANNEL",
+            "ord": "546",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "LAS I Latin American Sports",
+                    "des": "Canal dado de alta el dï¿½a 26-06-2025",
+                    "img": {
+                        "dir": "ch/2000",
+                        "img_cnt": {
+                            "log": {
+                                "m": 1
+                            }
+                        }
+                    },
+                    "img_lnk": {
+                        "log": {
+                            "url": "/images/repository/{image-size}",
+                            "sizes": {
+                                "m": "149/18190149-LOGO-m.png"
+                            }
+                        }
+                    }
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/110459",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        },
+                        {
+                            "packg": "HLS",
+                            "drm": [
+                                "FPS"
                             ]
                         }
                     ]
@@ -24999,65 +26072,6 @@
             "blk": false
         },
         {
-            "sid": "166066",
-            "sty": "TV_CHANNEL",
-            "ord": "573",
-            "loc": [
-                {
-                    "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 73",
-                    "des": "Canal NFL SKY creado 11-09-24",
-                    "img": {
-                        "dir": "ch/1951",
-                        "img_cnt": {
-                            "log": {
-                                "m": 1
-                            }
-                        }
-                    },
-                    "img_lnk": {
-                        "log": {
-                            "url": "/images/repository/{image-size}",
-                            "sizes": {
-                                "m": "993/16837993-LOGO-m.png"
-                            }
-                        }
-                    }
-                }
-            ],
-            "ava": true,
-            "liv": [
-                {
-                    "url": "multirights://elemental/SVC/166066",
-                    "sys": "MULTIRIGHTS",
-                    "pro": "elemental",
-                    "comb": [
-                        {
-                            "packg": "DASH",
-                            "drm": [
-                                "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "sov": [],
-            "cup": [],
-            "hd": false,
-            "4k": false,
-            "isNPVR": false,
-            "cen": false,
-            "ppv": false,
-            "imb": false,
-            "blk": false
-        },
-        {
             "sid": "123690",
             "sty": "TV_CHANNEL",
             "ord": "914",
@@ -25141,57 +26155,6 @@
                                 "PR",
                                 "WV"
                             ]
-                        }
-                    ]
-                }
-            ],
-            "hd": true,
-            "4k": false,
-            "isNPVR": false,
-            "cen": false,
-            "ppv": false,
-            "imb": false,
-            "blk": false
-        },
-        {
-            "sid": "166065",
-            "sty": "TV_CHANNEL",
-            "ord": "572",
-            "loc": [
-                {
-                    "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 72",
-                    "des": "Canal NFL SKY creado 11-09-24",
-                    "img": {
-                        "dir": "ch/1950",
-                        "img_cnt": {
-                            "log": {
-                                "m": 1
-                            }
-                        }
-                    },
-                    "img_lnk": {
-                        "log": {
-                            "url": "/images/repository/{image-size}",
-                            "sizes": {
-                                "m": "991/16837991-LOGO-m.png"
-                            }
-                        }
-                    }
-                }
-            ],
-            "ava": true,
-            "liv": [
-                {
-                    "url": "multirights://elemental/SVC/166065",
-                    "sys": "MULTIRIGHTS",
-                    "pro": "elemental",
-                    "comb": [
-                        {
-                            "packg": "DASH",
-                            "drm": [
-                                "WV"
-                            ]
                         },
                         {
                             "packg": "HLS",
@@ -25202,9 +26165,7 @@
                     ]
                 }
             ],
-            "sov": [],
-            "cup": [],
-            "hd": false,
+            "hd": true,
             "4k": false,
             "isNPVR": false,
             "cen": false,
@@ -25229,7 +26190,7 @@
                                 "m": 1
                             },
                             "log": {
-                                "m": 3
+                                "m": 1
                             }
                         }
                     },
@@ -25237,7 +26198,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "014/9664014-LOGO-m.png"
+                                "m": "282/17592282-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -25320,65 +26281,6 @@
             "blk": false
         },
         {
-            "sid": "166064",
-            "sty": "TV_CHANNEL",
-            "ord": "571",
-            "loc": [
-                {
-                    "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 71",
-                    "des": "Canal NFL SKY creado 11-09-24",
-                    "img": {
-                        "dir": "ch/1949",
-                        "img_cnt": {
-                            "log": {
-                                "m": 1
-                            }
-                        }
-                    },
-                    "img_lnk": {
-                        "log": {
-                            "url": "/images/repository/{image-size}",
-                            "sizes": {
-                                "m": "990/16837990-LOGO-m.png"
-                            }
-                        }
-                    }
-                }
-            ],
-            "ava": true,
-            "liv": [
-                {
-                    "url": "multirights://elemental/SVC/166064",
-                    "sys": "MULTIRIGHTS",
-                    "pro": "elemental",
-                    "comb": [
-                        {
-                            "packg": "DASH",
-                            "drm": [
-                                "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "sov": [],
-            "cup": [],
-            "hd": false,
-            "4k": false,
-            "isNPVR": false,
-            "cen": false,
-            "ppv": false,
-            "imb": false,
-            "blk": false
-        },
-        {
             "sid": "80660",
             "sty": "TV_CHANNEL",
             "ord": "934",
@@ -25423,65 +26325,6 @@
             "sov": [],
             "cup": [],
             "hd": true,
-            "4k": false,
-            "isNPVR": false,
-            "cen": false,
-            "ppv": false,
-            "imb": false,
-            "blk": false
-        },
-        {
-            "sid": "165964",
-            "sty": "TV_CHANNEL",
-            "ord": "570",
-            "loc": [
-                {
-                    "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 70",
-                    "des": "Canal NFL SKY creado 11-09-24",
-                    "img": {
-                        "dir": "ch/1948",
-                        "img_cnt": {
-                            "log": {
-                                "m": 1
-                            }
-                        }
-                    },
-                    "img_lnk": {
-                        "log": {
-                            "url": "/images/repository/{image-size}",
-                            "sizes": {
-                                "m": "989/16837989-LOGO-m.png"
-                            }
-                        }
-                    }
-                }
-            ],
-            "ava": true,
-            "liv": [
-                {
-                    "url": "multirights://elemental/SVC/165964",
-                    "sys": "MULTIRIGHTS",
-                    "pro": "elemental",
-                    "comb": [
-                        {
-                            "packg": "DASH",
-                            "drm": [
-                                "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "sov": [],
-            "cup": [],
-            "hd": false,
             "4k": false,
             "isNPVR": false,
             "cen": false,
@@ -25603,65 +26446,6 @@
             "blk": false
         },
         {
-            "sid": "166070",
-            "sty": "TV_CHANNEL",
-            "ord": "577",
-            "loc": [
-                {
-                    "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 77",
-                    "des": "Canal NFL SKY creado 11-09-24",
-                    "img": {
-                        "dir": "ch/1955",
-                        "img_cnt": {
-                            "log": {
-                                "m": 1
-                            }
-                        }
-                    },
-                    "img_lnk": {
-                        "log": {
-                            "url": "/images/repository/{image-size}",
-                            "sizes": {
-                                "m": "999/16837999-LOGO-m.png"
-                            }
-                        }
-                    }
-                }
-            ],
-            "ava": true,
-            "liv": [
-                {
-                    "url": "multirights://elemental/SVC/166070",
-                    "sys": "MULTIRIGHTS",
-                    "pro": "elemental",
-                    "comb": [
-                        {
-                            "packg": "DASH",
-                            "drm": [
-                                "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "sov": [],
-            "cup": [],
-            "hd": false,
-            "4k": false,
-            "isNPVR": false,
-            "cen": false,
-            "ppv": false,
-            "imb": false,
-            "blk": false
-        },
-        {
             "sid": "68134",
             "sty": "TV_CHANNEL",
             "ord": "927",
@@ -25769,65 +26553,6 @@
             "blk": false
         },
         {
-            "sid": "166069",
-            "sty": "TV_CHANNEL",
-            "ord": "576",
-            "loc": [
-                {
-                    "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 76",
-                    "des": "Canal NFL SKY creado 11-09-24",
-                    "img": {
-                        "dir": "ch/1954",
-                        "img_cnt": {
-                            "log": {
-                                "m": 1
-                            }
-                        }
-                    },
-                    "img_lnk": {
-                        "log": {
-                            "url": "/images/repository/{image-size}",
-                            "sizes": {
-                                "m": "998/16837998-LOGO-m.png"
-                            }
-                        }
-                    }
-                }
-            ],
-            "ava": true,
-            "liv": [
-                {
-                    "url": "multirights://elemental/SVC/166069",
-                    "sys": "MULTIRIGHTS",
-                    "pro": "elemental",
-                    "comb": [
-                        {
-                            "packg": "DASH",
-                            "drm": [
-                                "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "sov": [],
-            "cup": [],
-            "hd": false,
-            "4k": false,
-            "isNPVR": false,
-            "cen": false,
-            "ppv": false,
-            "imb": false,
-            "blk": false
-        },
-        {
             "sid": "80652",
             "sty": "TV_CHANNEL",
             "ord": "921",
@@ -25915,124 +26640,6 @@
                 }
             ],
             "hd": true,
-            "4k": false,
-            "isNPVR": false,
-            "cen": false,
-            "ppv": false,
-            "imb": false,
-            "blk": false
-        },
-        {
-            "sid": "166068",
-            "sty": "TV_CHANNEL",
-            "ord": "575",
-            "loc": [
-                {
-                    "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 75",
-                    "des": "Canal NFL SKY creado 11-09-24",
-                    "img": {
-                        "dir": "ch/1953",
-                        "img_cnt": {
-                            "log": {
-                                "m": 1
-                            }
-                        }
-                    },
-                    "img_lnk": {
-                        "log": {
-                            "url": "/images/repository/{image-size}",
-                            "sizes": {
-                                "m": "997/16837997-LOGO-m.png"
-                            }
-                        }
-                    }
-                }
-            ],
-            "ava": true,
-            "liv": [
-                {
-                    "url": "multirights://elemental/SVC/166068",
-                    "sys": "MULTIRIGHTS",
-                    "pro": "elemental",
-                    "comb": [
-                        {
-                            "packg": "DASH",
-                            "drm": [
-                                "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "sov": [],
-            "cup": [],
-            "hd": false,
-            "4k": false,
-            "isNPVR": false,
-            "cen": false,
-            "ppv": false,
-            "imb": false,
-            "blk": false
-        },
-        {
-            "sid": "166067",
-            "sty": "TV_CHANNEL",
-            "ord": "574",
-            "loc": [
-                {
-                    "lan": "SPA",
-                    "nam": "NFL Sunday Ticket 74",
-                    "des": "Canal NFL SKY creado 11-09-24",
-                    "img": {
-                        "dir": "ch/1952",
-                        "img_cnt": {
-                            "log": {
-                                "m": 1
-                            }
-                        }
-                    },
-                    "img_lnk": {
-                        "log": {
-                            "url": "/images/repository/{image-size}",
-                            "sizes": {
-                                "m": "995/16837995-LOGO-m.png"
-                            }
-                        }
-                    }
-                }
-            ],
-            "ava": true,
-            "liv": [
-                {
-                    "url": "multirights://elemental/SVC/166067",
-                    "sys": "MULTIRIGHTS",
-                    "pro": "elemental",
-                    "comb": [
-                        {
-                            "packg": "DASH",
-                            "drm": [
-                                "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
-                            ]
-                        }
-                    ]
-                }
-            ],
-            "sov": [],
-            "cup": [],
-            "hd": false,
             "4k": false,
             "isNPVR": false,
             "cen": false,
@@ -26742,7 +27349,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Universal Premier HD",
+                    "nam": "Universal Premiere HD",
                     "des": "Cambio a \"Universal Premier HD\" a partir de 01-02-2022\r\nAntes \" FOX Series HD \" cambio a partir de : 01-03-2021",
                     "img": {
                         "dir": "ch/336",
@@ -26761,7 +27368,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "395/17008395-LOGO-m.png"
+                                "m": "274/17592274-LOGO-m.png"
                             }
                         },
                         "sna": {
@@ -27313,7 +27920,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Adrenalina Sports Network HD",
-                    "des": "Antes Fighting Sports Network cambiado desde el día 14 diciembre 2018",
+                    "des": "Antes Fighting Sports Network cambiado desde el dï¿½a 14 diciembre 2018",
                     "img": {
                         "dir": "ch/342",
                         "img_cnt": {
@@ -27427,27 +28034,12 @@
         {
             "sid": "165954",
             "sty": "MOSAIC_CHANNEL",
-            "ord": "560",
+            "ord": "550",
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Mosaico NFL",
-                    "img": {
-                        "dir": "ch/1884",
-                        "img_cnt": {
-                            "log": {
-                                "m": 1
-                            }
-                        }
-                    },
-                    "img_lnk": {
-                        "log": {
-                            "url": "/images/repository/{image-size}",
-                            "sizes": {
-                                "m": "078/16877078-LOGO-m.png"
-                            }
-                        }
-                    }
+                    "nam": "Mosaico MLB",
+                    "des": "Creado por Requerimiento el dia 12-03-25\r\nComplemento Premium a la carta MLB"
                 }
             ],
             "ava": true,
@@ -27586,6 +28178,80 @@
                             "packg": "HLS",
                             "drm": [
                                 "FPS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "601126",
+            "sty": "TV_CHANNEL",
+            "ord": "482",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "TV Migrante",
+                    "des": "Canal dado de alta el dï¿½a 26-06-2025"
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/601126",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "sov": [],
+            "cup": [],
+            "hd": false,
+            "4k": false,
+            "isNPVR": false,
+            "cen": false,
+            "ppv": false,
+            "imb": false,
+            "blk": false
+        },
+        {
+            "sid": "601124",
+            "sty": "TV_CHANNEL",
+            "ord": "485",
+            "loc": [
+                {
+                    "lan": "SPA",
+                    "nam": "Maussan TV",
+                    "des": "Canal dado de alta el dï¿½a 26-06-2025"
+                }
+            ],
+            "ava": true,
+            "liv": [
+                {
+                    "url": "multirights://elemental/SVC/601124",
+                    "sys": "MULTIRIGHTS",
+                    "pro": "elemental",
+                    "comb": [
+                        {
+                            "packg": "DASH",
+                            "drm": [
+                                "WV"
                             ]
                         }
                     ]
@@ -27966,7 +28632,7 @@
             "sov": [
                 {
                     "sys": "MULTIRIGHTS",
-                    "pro": "elemental",
+                    "pro": "broadpeak",
                     "bufferSize": "86400",
                     "comb": [
                         {
@@ -27974,12 +28640,6 @@
                             "drm": [
                                 "PR",
                                 "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
                             ]
                         }
                     ]
@@ -27996,12 +28656,6 @@
                             "drm": [
                                 "PR",
                                 "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
                             ]
                         }
                     ]
@@ -28079,7 +28733,7 @@
             "sov": [
                 {
                     "sys": "MULTIRIGHTS",
-                    "pro": "elemental",
+                    "pro": "broadpeak",
                     "bufferSize": "86400",
                     "comb": [
                         {
@@ -28087,12 +28741,6 @@
                             "drm": [
                                 "PR",
                                 "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
                             ]
                         }
                     ]
@@ -28109,12 +28757,6 @@
                             "drm": [
                                 "PR",
                                 "WV"
-                            ]
-                        },
-                        {
-                            "packg": "HLS",
-                            "drm": [
-                                "FPS"
                             ]
                         }
                     ]
@@ -28641,17 +29283,17 @@
         {
             "sid": "165955",
             "sty": "TV_CHANNEL",
-            "ord": "561",
+            "ord": "551",
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "NFL Red Zone",
-                    "des": "Ingreso del canal 04-09-24",
+                    "nam": "MLB EI 1",
+                    "des": "Creado bajo requerimiento el dia 12-03-25\r\nComplemento Premium a la carta MLB",
                     "img": {
-                        "dir": "ch/1874",
+                        "dir": "ch/1981",
                         "img_cnt": {
                             "log": {
-                                "m": 2
+                                "m": 1
                             }
                         }
                     },
@@ -28659,7 +29301,7 @@
                         "log": {
                             "url": "/images/repository/{image-size}",
                             "sizes": {
-                                "m": "470/16831470-LOGO-m.png"
+                                "m": "358/17726358-LOGO-m.png"
                             }
                         }
                     }
@@ -28675,6 +29317,7 @@
                         {
                             "packg": "DASH",
                             "drm": [
+                                "PR",
                                 "WV"
                             ]
                         },
@@ -28704,8 +29347,8 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Telehit Música",
-                    "des": "Antes \"Telehit Urbano\" cmabio el día 14-09-2020\r\nAntes \"Ritmoson\" cambió el día 05-03-2019",
+                    "nam": "Telehit Mï¿½sica",
+                    "des": "Antes \"Telehit Urbano\" cmabio el dï¿½a 14-09-2020\r\nAntes \"Ritmoson\" cambiï¿½ el dï¿½a 05-03-2019",
                     "img": {
                         "dir": "ch/77",
                         "img_cnt": {
@@ -29058,7 +29701,7 @@
             "loc": [
                 {
                     "lan": "SPA",
-                    "nam": "Telefórmula",
+                    "nam": "Telefï¿½rmula",
                     "img": {
                         "dir": "ch/26",
                         "img_cnt": {
@@ -29317,7 +29960,7 @@
                 {
                     "lan": "SPA",
                     "nam": "Canal 13",
-                    "des": "Antes XHCVP-TV Canal Nueve, plaza de Coatzacoalcos cambió a partir del 26 del Septiembre 2019",
+                    "des": "Antes XHCVP-TV Canal Nueve, plaza de Coatzacoalcos cambiï¿½ a partir del 26 del Septiembre 2019",
                     "img": {
                         "dir": "ch/790",
                         "img_cnt": {}
